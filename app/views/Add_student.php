@@ -91,4 +91,5 @@
         <label>Ngày Sinh:</label>
         <input type="date" name="NgaySinh" required>
 
-        <label>Hình ảnh:</
+        <label>Hình ảnh (URL):</label>
+        <input type="file" name="Hinh">
