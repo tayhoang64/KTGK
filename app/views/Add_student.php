@@ -91,5 +91,13 @@
         <label>Ngày Sinh:</label>
         <input type="date" name="NgaySinh" required>
 
-        <label>Hình ảnh (URL):</label>
+        <label>Hình ảnh:</label>
         <input type="file" name="Hinh">
+
+        <label>Ngành Học:</label>
+        <input type="text" name="MaNganh" required>
+
+        <button type="submit">Thêm Sinh Viên</button>
+    </form>
+</body>
+</html>
